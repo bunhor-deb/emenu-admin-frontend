@@ -34,6 +34,11 @@ export const navData = [
     ),
   },
   {
+    title: 'Add New',
+    path: '/products/new',
+    icon: icon('ic-add'),
+  },
+  {
     title: 'Blog',
     path: '/blog',
     icon: icon('ic-blog'),
